@@ -1,7 +1,6 @@
 # Portfolio of Data Science Projects
 
-### Education 
+### Comprehensive list of Data Science projects will be featured here by January 1, 2024.  
 
-# Projects 
-Data projects portfolio
+
 
