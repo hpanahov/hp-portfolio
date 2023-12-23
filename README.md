@@ -3,7 +3,8 @@
   
 ## [The Differential Impacts of Human Capital and Infrastructure on Sustainable Development: An Empirical Analysis](https://github.com/hpanahov/humanCap_infrastructure) 
 This study looks at country-level data to explore the dynamics among human capital, infrastructure, and a country’s progress toward the United Nations Sustainable Development Goals (SDGs). Utilizing the confirmatory factor analysis method, I develop a new Infrastructure Index and combine it with the World Bank’s dataset on Human Capital Index to evaluate the relative impact of these factors on a country's SDG scores. My findings affirm the integral roles of both human capital and infrastructure in the sustainable development context. However, a stronger correlation between human capital and the SDG Index suggests that policymakers seeking to advance the sustainability agenda should prioritize investments in human capital over infrastructure. Moreover, the study uncovers nuanced relationships between these indicators and specific SDGs. Human capital has a significant association with SDG 5 (Gender Equality), whereas infrastructure does not. Both human capital and infrastructure affect SDG 1 (No Poverty), with no statistical difference between their effects. Interestingly, while human capital correlates more strongly with SDG 13 (Climate Action), this relationship is negative due to the larger carbon footprint of more developed economies. These findings can inform policy decisions for goal-specific sustainable development strategies. 
-![UN SDG](https://github.com/hpanahov/humanCap_infrastructure/blob/main/Media/UN_SDG.png) 
+![UN SDG](https://github.com/hpanahov/humanCap_infrastructure/blob/main/Media/UN_SDG.png?raw=true)
+
 
 ## [SpaceX  Falcon 9 First Stage Landing Prediction](https://github.com/hpanahov/SpaceX_data) 
 **Capstone Project for 'IBM Professional Certificate in Data Science with Python'**   
