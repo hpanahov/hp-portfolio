@@ -12,7 +12,7 @@ In this project, I constructed a machine learning model that can predict whether
 
 <iframe width="530" height="298" src="https://www.youtube.com/embed/1sJlFzUQVmY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
-### More Data Science projects will be featured here by January 15, 2024.  
+### More Data Science projects will be featured here soon.  
 
 
 
