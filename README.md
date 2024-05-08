@@ -9,7 +9,7 @@ This study looks at country-level data to explore the dynamics among human capit
 ## [Predictive Regression Model for Used Car Pricing](https://github.com/hpanahov/used_cars)
 **Capstone Project for [MIT Applied Data Science Program](https://www.credential.net/cfb9f803-accf-429c-8fe4-4e33ef46f596)**   
 The pricing and supply of new cars are generally predictable, controlled by Original Equipment Manufacturers (OEMs), with the only variations occurring due to dealership-level discounts at the final stage of the customer journey. However, the used car market operates differently. It is characterized by significant uncertainties in both pricing and supply. The valuation of a used car can be influenced by multiple factors including mileage, model year, brand, and overall condition. For sellers, setting an accurate price is challenging yet crucial for market competitiveness. In this data sience project I develop a robust pricing model that can predict the prices of used cars with 94% accuracy. Such a model can both facilitate fair market transactions and enable the company to implement differential pricing strategies that could drive profitability and market growth.   
-
+  
   
 ## [SpaceX  Falcon 9 First Stage Landing Prediction](https://github.com/hpanahov/SpaceX_data) 
 **Capstone Project for [IBM Professional Certificate in Data Science](https://credentials.edx.org/credentials/6fad60d7dc4f4260979258aa1ea96ea7/)**   
